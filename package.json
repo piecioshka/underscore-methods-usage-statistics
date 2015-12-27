@@ -19,9 +19,12 @@
     },
     "keywords": [
         "underscore",
+        "lodash",
         "methods",
         "usage",
-        "statistics"
+        "statistics",
+        "counter",
+        "report"
     ],
     "repository": {
         "type": "git",

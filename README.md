@@ -24,7 +24,7 @@ underscore-methods-usage-statistics ~/projects/simple-project/
 Example output:
 
 ```
-Methods statistics:
+Report: Underscore.js methods usage statistics:
  - 25 assert
  - 8 extend
  - 8 isObject
@@ -49,6 +49,8 @@ Methods statistics:
  - 1 contains
  - 1 each
  - 1 isNull
+ 
+Analyze 123 files.
 ```
 
 ## Test
