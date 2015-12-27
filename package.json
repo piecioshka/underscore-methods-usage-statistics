@@ -1,11 +1,30 @@
 {
     "name": "underscore-methods-usage-statistics",
     "description": "Display statistics of Underscore.js methods",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "scripts": {
         "test": "jasmine JASMINE_CONFIG_PATH=test/jasmine.json"
     },
     "dependencies": {
         "underscore": "^1.8.3"
+    },
+    "license": "MIT",
+    "author": {
+        "name": "Piotr Kowalski",
+        "email": "piecioshka@gmail.com",
+        "url": "piecioshka.pl"
+    },
+    "bin": {
+        "underscore-methods-usage-statistics": "index.js"
+    },
+    "keywords": [
+        "underscore",
+        "methods",
+        "usage",
+        "statistics"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "git+ssh://git@github.com/piecioshka/underscore-methods-usage-statistics.git"
     }
 }
