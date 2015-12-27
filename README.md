@@ -2,6 +2,9 @@
 
 > Display statistics of Underscore.js methods.
 
+All idea is to grep files with simple regular expression to find all instances of any underscore method called.
+Display simple report after process completed.
+
 ## Install
 
 ```
@@ -42,6 +45,12 @@ Methods statistics:
  - 1 contains
  - 1 each
  - 1 isNull
+```
+
+## Test
+
+```
+npm test
 ```
 
 ## License

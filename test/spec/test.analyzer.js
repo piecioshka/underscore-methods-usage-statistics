@@ -6,4 +6,6 @@ describe('General', function () {
         expect(analyzer.setup).toEqual(jasmine.any(Function));
         expect(analyzer.parse).toEqual(jasmine.any(Function));
     });
+
+    // TODO(piecioshka): more specs in here
 });
