@@ -1,7 +1,7 @@
 {
     "name": "underscore-methods-usage-statistics",
     "description": "Display statistics of Underscore.js methods",
-    "version": "0.9.5",
+    "version": "1.0.0",
     "scripts": {
         "test": "jasmine JASMINE_CONFIG_PATH=test/jasmine.json"
     },

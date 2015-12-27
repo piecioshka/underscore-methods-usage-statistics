@@ -1,5 +1,9 @@
 # underscore-methods-usage-statistics
 
+![](https://img.shields.io/npm/v/underscore-methods-usage-statistics.svg)
+![](https://img.shields.io/npm/dt/underscore-methods-usage-statistics.svg)
+![](https://img.shields.io/npm/l/underscore-methods-usage-statistics.svg)
+
 > Display statistics of Underscore.js methods.
 
 All idea is to grep files with simple regular expression to find all instances of any underscore method called.
