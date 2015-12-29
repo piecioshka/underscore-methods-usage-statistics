@@ -15,10 +15,10 @@ Display simple report after process completed.
 npm install -g underscore-methods-usage-statistics
 ```
 
-## Setup
+## Usage
 
 ```
-underscore-methods-usage-statistics ~/projects/simple-project/
+underscore-methods-usage-statistics ~/projects/sample-project/
 ```
 
 Example output:
@@ -51,6 +51,13 @@ Report: Underscore.js methods usage statistics:
  - 1 isNull
  
 Analyze 123 files.
+```
+
+## Setup local version
+
+```
+npm install
+./index.js ~/projects/sample-project/
 ```
 
 ## Test
