@@ -12,13 +12,13 @@ Display simple report after process completed.
 ## Install
 
 ```
-npm install -g underscore-methods-usage-statistics
+$ npm install -g underscore-methods-usage-statistics
 ```
 
 ## Usage
 
 ```
-underscore-methods-usage-statistics ~/projects/sample-project/
+$ underscore-methods-usage-statistics ~/projects/sample-project/
 ```
 
 Example output:
@@ -56,16 +56,16 @@ Analyze 123 files.
 ## Setup local version
 
 ```
-npm install
-./index.js ~/projects/sample-project/
+$ npm install
+$ ./index.js ~/projects/sample-project/
 ```
 
 ## Test
 
 ```
-npm test
+$ npm test
 ```
 
 ## License
 
-[The MIT License](http://piecioshka.mit-license.org)
+[The MIT License](http://piecioshka.mit-license.org) @ 2015

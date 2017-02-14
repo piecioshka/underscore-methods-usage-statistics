@@ -1,7 +1,7 @@
 {
     "name": "underscore-methods-usage-statistics",
     "description": "Display statistics of Underscore.js methods",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "scripts": {
         "test": "jasmine JASMINE_CONFIG_PATH=test/jasmine.json"
     },
@@ -14,6 +14,7 @@
         "email": "piecioshka@gmail.com",
         "url": "http://piecioshka.pl"
     },
+    "preferGlobal": true,
     "bin": {
         "underscore-methods-usage-statistics": "index.js"
     },
