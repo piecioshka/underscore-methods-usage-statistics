@@ -1,4 +1,6 @@
-var analyzer = require('../../lib/analyzer');
+'use strict';
+
+var analyzer = require('../../../src/analyzer');
 
 describe('General', function () {
     it('should be an object', function () {

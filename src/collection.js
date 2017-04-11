@@ -39,13 +39,13 @@ module.exports = {
         }, this).reverse();
     },
 
-    print: function (machersCount) {
+    print: function (matchesNumber) {
         console.log('Report: Underscore.js methods usage statistics:');
 
         _.each(list, function (item) {
             console.log(' - ' + item.quantity + ' ' + item.value);
         });
 
-        console.log('\nAnalyze ' + machersCount + ' files.');
+        console.log('\nAnalyze ' + matchesNumber + ' files.');
     }
 };

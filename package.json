@@ -1,12 +1,16 @@
 {
     "name": "underscore-methods-usage-statistics",
     "description": "Display statistics of Underscore.js methods",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "scripts": {
-        "test": "jasmine JASMINE_CONFIG_PATH=test/jasmine.json"
+        "clear": "rm -rf node_modules/",
+        "test": "jasmine JASMINE_CONFIG_PATH=test/unit/jasmine.json"
     },
     "dependencies": {
         "underscore": "^1.8.3"
+    },
+    "devDependencies": {
+        "jasmine": "^2.5.3"
     },
     "license": "MIT",
     "author": {

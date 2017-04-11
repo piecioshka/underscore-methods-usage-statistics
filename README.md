@@ -9,6 +9,8 @@
 All idea is to grep files with simple regular expression to find all instances of any underscore method called.
 Display simple report after process completed.
 
+![](http://underscorejs.org/docs/images/underscore.png)
+
 ## Install
 
 ```
@@ -53,14 +55,7 @@ Report: Underscore.js methods usage statistics:
 Analyze 123 files.
 ```
 
-## Setup local version
-
-```
-$ npm install
-$ ./index.js ~/projects/sample-project/
-```
-
-## Test
+## Unit tests
 
 ```
 $ npm test

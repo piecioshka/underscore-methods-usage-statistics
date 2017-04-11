@@ -1,7 +1,9 @@
+'use strict';
+
 var collection;
 
 beforeEach(function () {
-    collection = require('../../lib/collection');
+    collection = require('../../../src/collection');
 });
 
 describe('General', function () {
