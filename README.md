@@ -1,10 +1,11 @@
 # underscore-methods-usage-statistics
 
-![](https://img.shields.io/npm/v/underscore-methods-usage-statistics.svg)
-![](https://img.shields.io/npm/dt/underscore-methods-usage-statistics.svg)
-![](https://img.shields.io/npm/l/underscore-methods-usage-statistics.svg)
+[![node version](https://img.shields.io/node/v/underscore-methods-usage-statistics.svg)](https://www.npmjs.com/package/underscore-methods-usage-statistics)
+[![npm version](https://badge.fury.io/js/underscore-methods-usage-statistics.svg)](https://badge.fury.io/js/underscore-methods-usage-statistics)
+[![downloads count](https://img.shields.io/npm/dt/underscore-methods-usage-statistics.svg)](https://www.npmjs.com/package/underscore-methods-usage-statistics)
+[![license](https://img.shields.io/npm/l/underscore-methods-usage-statistics.svg)](https://www.npmjs.com/package/underscore-methods-usage-statistics)
 
-> Display statistics of Underscore.js methods.
+Display statistics of Underscore.js methods.
 
 All idea is to grep files with simple regular expression to find all instances of any underscore method called.
 Display simple report after process completed.
@@ -13,14 +14,14 @@ Display simple report after process completed.
 
 ## Install
 
-```
-$ npm install -g underscore-methods-usage-statistics
+```bash
+npm install -g underscore-methods-usage-statistics
 ```
 
 ## Usage
 
-```
-$ underscore-methods-usage-statistics ~/projects/sample-project/
+```bash
+underscore-methods-usage-statistics ~/projects/sample-project/
 ```
 
 Example output:
@@ -51,14 +52,14 @@ Report: Underscore.js methods usage statistics:
  - 1 contains
  - 1 each
  - 1 isNull
- 
+
 Analyze 123 files.
 ```
 
 ## Unit tests
 
-```
-$ npm test
+```bash
+npm test
 ```
 
 ## License
