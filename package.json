@@ -36,7 +36,6 @@
         "counter",
         "report"
     ],
-    "preferGlobal": true,
     "bin": {
         "underscore-methods-usage-statistics": "index.js"
     }
