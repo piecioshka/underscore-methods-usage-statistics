@@ -10,7 +10,7 @@ Display statistics of Underscore.js methods.
 All idea is to grep files with simple regular expression to find all instances of any underscore method called.
 Display simple report after process completed.
 
-![](http://underscorejs.org/docs/images/underscore.png)
+![](https://underscorejs.org/docs/images/underscore.png)
 
 ## Install
 
@@ -64,4 +64,4 @@ npm test
 
 ## License
 
-[The MIT License](http://piecioshka.mit-license.org) @ 2015
+[The MIT License](https://piecioshka.mit-license.org) @ 2015
