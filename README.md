@@ -3,7 +3,7 @@
 [![node version](https://img.shields.io/node/v/underscore-methods-usage-statistics.svg)](https://www.npmjs.com/package/underscore-methods-usage-statistics)
 [![npm version](https://badge.fury.io/js/underscore-methods-usage-statistics.svg)](https://badge.fury.io/js/underscore-methods-usage-statistics)
 [![downloads count](https://img.shields.io/npm/dt/underscore-methods-usage-statistics.svg)](https://www.npmjs.com/package/underscore-methods-usage-statistics)
-[![license](https://img.shields.io/npm/l/underscore-methods-usage-statistics.svg)](https://www.npmjs.com/package/underscore-methods-usage-statistics)
+[![license](https://img.shields.io/npm/l/underscore-methods-usage-statistics.svg)](https://piecioshka.mit-license.org)
 
 Display statistics of Underscore.js methods.
 
