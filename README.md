@@ -4,8 +4,9 @@
 [![npm version](https://badge.fury.io/js/underscore-methods-usage-statistics.svg)](https://badge.fury.io/js/underscore-methods-usage-statistics)
 [![downloads count](https://img.shields.io/npm/dt/underscore-methods-usage-statistics.svg)](https://www.npmjs.com/package/underscore-methods-usage-statistics)
 [![license](https://img.shields.io/npm/l/underscore-methods-usage-statistics.svg)](https://piecioshka.mit-license.org)
+[![github-ci](https://github.com/piecioshka/underscore-methods-usage-statistics/actions/workflows/testing.yml/badge.svg)](https://github.com/piecioshka/underscore-methods-usage-statistics/actions/workflows/testing.yml)
 
-Display statistics of Underscore.js methods.
+🔨 Display statistics of Underscore.js methods.
 
 All idea is to grep files with simple regular expression to find all instances of any underscore method called.
 Display simple report after process completed.
