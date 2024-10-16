@@ -1,7 +1,7 @@
 {
     "name": "underscore-methods-usage-statistics",
     "description": "Display statistics of Underscore.js methods",
-    "version": "1.0.6",
+    "version": "1.0.7",
     "license": "MIT",
     "author": {
         "name": "Piotr Kowalski",
