@@ -37,6 +37,6 @@
         "report"
     ],
     "bin": {
-        "underscore-methods-usage-statistics": "index.js"
+        "underscore-methods-usage-statistics": "bin/cli.js"
     }
 }

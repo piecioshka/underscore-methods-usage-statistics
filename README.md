@@ -1,5 +1,6 @@
 # underscore-methods-usage-statistics
 
+[![cli-available](https://badgen.net/static/cli/available/?icon=terminal)](https://runkit.com/npm/underscore-methods-usage-statistics)
 [![node version](https://img.shields.io/node/v/underscore-methods-usage-statistics.svg)](https://www.npmjs.com/package/underscore-methods-usage-statistics)
 [![npm version](https://badge.fury.io/js/underscore-methods-usage-statistics.svg)](https://badge.fury.io/js/underscore-methods-usage-statistics)
 [![downloads count](https://img.shields.io/npm/dt/underscore-methods-usage-statistics.svg)](https://www.npmjs.com/package/underscore-methods-usage-statistics)
@@ -14,19 +15,17 @@ Display simple report after process completed.
 
 ![](https://underscorejs.org/docs/images/underscore.png)
 
-## Install
+## CLI
+
+Installation:
 
 ```bash
 npm install -g underscore-methods-usage-statistics
 ```
 
-## Usage
-
 ```bash
 underscore-methods-usage-statistics ~/projects/sample-project/
 ```
-
-Example output:
 
 ```
 Report: Underscore.js methods usage statistics:
@@ -56,12 +55,6 @@ Report: Underscore.js methods usage statistics:
  - 1 isNull
 
 Analyze 123 files.
-```
-
-## Unit tests
-
-```bash
-npm test
 ```
 
 ## License
