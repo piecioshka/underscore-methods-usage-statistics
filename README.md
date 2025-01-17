@@ -1,6 +1,6 @@
 # underscore-methods-usage-statistics
 
-[![cli-available](https://badgen.net/static/cli/available/?icon=terminal)](https://runkit.com/npm/underscore-methods-usage-statistics)
+[![cli-available](https://badgen.net/static/cli/available/?icon=terminal)](#cli)
 [![node version](https://img.shields.io/node/v/underscore-methods-usage-statistics.svg)](https://www.npmjs.com/package/underscore-methods-usage-statistics)
 [![npm version](https://badge.fury.io/js/underscore-methods-usage-statistics.svg)](https://badge.fury.io/js/underscore-methods-usage-statistics)
 [![downloads count](https://img.shields.io/npm/dt/underscore-methods-usage-statistics.svg)](https://www.npmjs.com/package/underscore-methods-usage-statistics)
