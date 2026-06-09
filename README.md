@@ -10,6 +10,8 @@
 
 🔨 Display statistics of Underscore.js methods.
 
+![](demo/underscore-methods-usage-statistics.gif)
+
 All idea is to grep files with simple regular expression to find all instances of any underscore method called.
 Display simple report after process completed.
 
