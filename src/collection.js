@@ -34,9 +34,11 @@ module.exports = {
     },
 
     sort: function () {
-        return list = _.sortBy(list, function (item) {
+        list = _.sortBy(list, function (item) {
             return item.quantity;
         }, this).reverse();
+        module.exports.list = list;
+        return list;
     },
 
     print: function (matchesNumber) {
