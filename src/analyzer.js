@@ -6,7 +6,7 @@ var execFile = require('child_process').execFile;
 var loadPath = process.argv[2] || process.cwd();
 var regexp = "_\.\w*";
 var unique = require('./collection');
-var args = ['-R', '-e', regexp, loadPath];
+var args = ['-R', '-e', regexp, '--', loadPath];
 var options = { maxBuffer: 1024 * 5000 };
 
 function parse(files) {
