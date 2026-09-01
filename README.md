@@ -6,7 +6,7 @@
 [![downloads count](https://img.shields.io/npm/dt/underscore-methods-usage-statistics.svg)](https://www.npmjs.com/package/underscore-methods-usage-statistics)
 [![size](https://packagephobia.com/badge?p=underscore-methods-usage-statistics)](https://packagephobia.com/result?p=underscore-methods-usage-statistics)
 [![license](https://img.shields.io/npm/l/underscore-methods-usage-statistics.svg)](https://piecioshka.mit-license.org)
-[![github-ci](https://github.com/piecioshka/underscore-methods-usage-statistics/actions/workflows/testing.yml/badge.svg)](https://github.com/piecioshka/underscore-methods-usage-statistics/actions/workflows/testing.yml)
+[![github-ci](https://github.com/piecioshka/underscore-methods-usage-statistics/actions/workflows/ci.yml/badge.svg)](https://github.com/piecioshka/underscore-methods-usage-statistics/actions/workflows/ci.yml)
 
 🔨 Display statistics of Underscore.js methods.
 
