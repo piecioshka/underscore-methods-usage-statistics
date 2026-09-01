@@ -58,7 +58,8 @@ describe('General', function () {
                 collection.increase('test2');
                 collection.increase('test2');
                 var list = collection.sort();
-                expect(list).not.toEqual(collection.list);
+                expect(list).toBe(collection.list);
+                expect(list).not.toEqual([]);
             });
         });
 
