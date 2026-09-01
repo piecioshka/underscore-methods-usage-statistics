@@ -1,12 +1,12 @@
 'use strict';
 
 var _ = require('underscore');
-var exec = require('child_process').exec;
+var execFile = require('child_process').execFile;
 
 var loadPath = process.argv[2] || process.cwd();
 var regexp = "_\.\w*";
 var unique = require('./collection');
-var command = 'grep -R -e "' + regexp + '" ' + loadPath;
+var args = ['-R', '-e', regexp, loadPath];
 var options = { maxBuffer: 1024 * 5000 };
 
 function parse(files) {
@@ -57,6 +57,6 @@ function grepHandler(error, filesString) {
 module.exports = {
     parse: parse,
     setup: function () {
-        exec(command, options, grepHandler);
+        execFile('grep', args, options, grepHandler);
     }
 };
